@@ -136,7 +136,7 @@ const BuyBPCPayment = () => {
 
         <div className="mb-3 border-t pt-3">
           <p className="text-gray-500 text-xs">Account Name</p>
-          <p className="text-lg font-bold">LEMIKAN  OLUWASEGUN</p>
+          <p className="text-lg font-bold">LEMIKAN OLUWASEGUN</p>
         </div>
       </div>
 
